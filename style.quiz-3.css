@@ -1,0 +1,65 @@
+.clip{
+    height:150px;
+    background:green;
+    width:300px;
+    border-radius:0 0 170px 170px;
+    margin-left:72rem;
+}
+.logo{
+    height:9rem;
+    padding-left:3rem;
+    padding-top:1rem;
+}
+section{
+    background:rgb(246,247,251);
+    height:75rem;
+}
+h6{
+    padding-left:40rem;
+    padding-top:4rem;
+    font-size:15px;
+    color:rgb(129,140,152);
+}
+h3{
+    text-align:center;
+    font-size:24px;
+    font-family:sans-serif;
+    line-height:28.8px;
+    font-weight:bold;
+}
+.sen{
+    margin-left:24rem;
+    margin-top:2rem;
+}
+button{
+    height:5rem;
+    width:49rem;
+    margin-left:19rem;
+    background:white;
+    border-radius:30px;
+    color:rgb(92,106,119);
+    font-size:1.3rem;
+    border:none;
+    outline:none;
+}
+
+button:hover{
+    border:4px solid rgb(0,151,63,0.303185);
+}
+.last{
+    background:#00973F;
+    font-weight:bold;
+    border-radius:40px;
+    outline:none;
+}
+.last:hover{
+    background:white;
+    border:2px solid solid rgb(0,151,63,0.303185);
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:green;
+}

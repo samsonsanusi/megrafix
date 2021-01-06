@@ -1,0 +1,109 @@
+body{
+    margin:0 auto;
+    box-sizing:border-box;
+}
+.clip{
+    height:150px;
+    background-color:green;
+    width:300px;
+    border-radius: 0 0 170px 170px;
+    margin-left:72rem;
+}
+
+.arrow{
+    height:20px;
+    margin-left:5rem;
+    margin-top:40px;
+}
+.class{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin-top:40px;
+    margin-left:30px;
+}
+.class > h5{
+    color:rgb(1,151,64);
+    font-family:sans-serif;
+    font-weight:bold;
+    font-size:20px;
+    margin-right:5rem;
+}
+.class > h2{
+    font-weight:bold;
+    font-family:sans-serif;
+    font-size:40px;
+    margin-left:3rem;
+    color:rgb(42,52,64);
+}
+.rule{
+    width:78rem;
+    height:3px;
+   background-color:blue;
+   border-radius:15px;
+   
+}
+.btn{
+    display:flex;
+    flex-direction:row;
+    margin-top:1rem;
+    margin-left:4rem;
+}
+.btn > .bit{
+    height:1rem;
+    margin-top:3rem;
+    padding-left:2rem;
+}
+
+.btn > .head-4{
+    margin-left:1rem;
+    font-family:sans-serif;
+    color:green;
+    font-size:25px;
+    padding-bottom:0.4rem;
+}
+.head-3{
+    font-weight:bold;
+    font-family:sans-serif;
+    color:rgb(42,52,64);
+    font-size:25px;
+    margin-left:5rem;
+    margin-bottom:4rem;
+}
+
+hr{
+    width:80rem;
+    height:2px;
+    background-color:grey;
+}
+.img{
+    height:14rem;
+    width:75rem;
+    margin-top:3rem;
+    margin-left:7rem;
+    margin-right:3rem;
+    
+}
+input[type=text]{
+    font-size:30px;
+    height:80px;
+    outline:none;
+    border:transparent;
+    width:70rem;
+    margin-left:5rem;
+    margin-bottom:0.7rem;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    
+    
+}
+input[type=tank]{
+    height:50px;
+    outline:none;
+    border:transparent;
+    width:70rem;
+    margin-left:5rem;
+    margin-bottom:0.7rem;
+    font-family:sans-serif;
+    color:rgb(42,52,64);
+    font-size:30px;
+}

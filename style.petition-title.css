@@ -1,0 +1,121 @@
+body{
+}
+.logo{
+    height:7rem;
+    padding-left:3rem;
+}
+.clip{
+    height:150px;
+    background-color:green;
+    width:300px;
+    border-radius: 0 0 170px 170px;
+    margin-left:72rem;
+}
+section{
+    background:#E5E5E5;
+    height:90rem;
+    width:90rem;
+}
+h3{
+    font-family:sans-serif;
+    padding-top:4rem;
+    padding-left:6rem;
+}
+h3:hover{
+color:rgb(216,159,47);
+}
+input[type=text]{
+    font-size:20px;
+    border:transparent;
+    outline:none;
+    width:65rem;
+    height:4rem;
+    margin-left:6rem;
+    border-radius:10px;
+    padding-left:2rem;  
+}
+textarea{
+    
+    font-size:20px;
+    border:transparent;
+    outline:none;
+    width:67rem;
+    height:18rem;
+    font-family:sans-serif;
+    margin-left:6rem;
+    border-radius:10px;
+    padding-left:2rem;
+    padding-top:1rem;
+    resize:none;
+}
+.area{
+    display:flex;
+    flex-flow:row;
+    width:65rem;
+    height:4rem;
+    font-size:20px;
+    border:2px dashed green;
+    border-radius:10px;
+    padding-left:2rem;
+    background:rgb(207,223,217);
+    margin-left:6.3rem;
+    
+}   
+
+input[type=s]{
+    background-image:url(images/Shapee.png);
+    background-repeat:no-repeat;
+    border:3px dashed green;
+    background-size:35px;
+    background-position:80px 15px;
+    width:61rem;
+    background-color:rgb(207,223,217);
+    height:3.6rem;
+    border-radius:10px;
+    padding:5px 19px;
+    font-size:20px;
+    margin-left:6rem;
+    padding-left:8rem;
+    outline:none;
+}
+button{
+    width:70rem;
+    height:4rem;
+    margin-left:6rem;
+    border:2px solid green;
+    border-radius:10px;
+    color:green;
+    font-size:20px;
+    outline:none;
+    font-family:sans-serif;
+}
+button:hover{
+    background-color:green;
+    color:white;
+}
+#signature{
+    width:70rem;
+    height:4rem;
+    font-size:20px;
+    border-radius:10px;
+    margin-left:6rem;
+    outline:none;
+    padding-left:2rem;
+}
+.tin{
+    width:70rem;
+    height:4rem;
+    margin-left:6rem;
+    border:1px solid green;
+    background-color:green;
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    border-radius:40px;
+    font-family:sans-serif;
+}
+.tin:hover{
+    background-color:white;
+    color:green;
+}
+

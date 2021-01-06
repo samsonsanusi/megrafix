@@ -1,0 +1,126 @@
+.logo{
+    height:9rem;
+    padding-left:3rem;
+    padding-top:1rem;
+}
+.clip{
+    height:150px;
+    background-color:green;
+    width:300px;
+    border-radius:0 0 170px 170px;
+    margin-left:72rem;
+
+}
+section{
+    background:rgb(246,247,251);
+    height:75rem;
+}
+h6{
+    padding-left:40rem;
+    padding-top:4rem;
+    font-size:15px;
+    color:rgb(129,140,152);
+}
+h3{
+    text-align:center;
+    font-size:24px;
+    font-family:sans-serif;
+    line-height:28.8px;
+    font-weight:500;
+}
+.diva{
+    display:flex;
+
+}
+.bin{
+    height:20rem;
+    background:white;
+    width:15rem;
+    margin-left:25rem;
+    border-radius:10px;
+    border:none;
+    font-size:6rem;
+    padding-top:2rem;
+    color:rgb(92,106,119);
+    font-family:sans-serif;
+    outline:none;
+}
+.bean{
+    margin-left:10rem;
+    font-family:sans-serif;
+    background:white;
+    width:15rem;
+    border-radius:10px;
+    color:rgb(92,106,119);
+    font-size:6rem;
+    padding-top:2rem;
+    border:none;
+    height:20rem;
+    outline:none;
+}
+p{
+    font-size:2rem;
+    padding-top:5rem;
+}
+.bean:hover{
+    border:3px solid rgba(0,151,63,0.303185);
+}
+.bin:hover{
+    border:3px solid rgba(0,151,63,0.303185);
+}
+.hey{
+    display:flex;
+}
+.data{
+    width:15rem;
+    height:20rem;
+    background:white;
+    font-size:6rem;
+    color:rgb(92,106,119);
+    border:none;
+    margin-left:25rem;
+    border-radius:10px;
+    padding-top:2rem;
+    outline:none;
+}
+.data:hover{
+    border:3px solid rgba(0,151,63,0.303185);
+}
+.dean{
+    margin-left:10rem;
+    font-family:sans-serif;
+    background:white;
+    width:15rem;
+    border-radius:10px;
+    color:rgb(92,106,119);
+    font-size:6rem;
+    padding-top:2rem;
+    border:none;
+    height:20rem;
+    outline:none;
+}
+.dean:hover{
+    border:3px solid rgba(0,151,63,0.303185);
+}
+.last{
+    width:58rem;
+    margin-left:16rem;
+    height:5rem;
+    background:#00973F;
+    font-family:sans-serif;
+    border:3px solid rgba(0,151,63,0.303185);
+    font-size:1.5rem;
+    border-radius:30px;
+    outline:none;
+}
+.last:hover{
+    background:white;
+    
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:green;
+}

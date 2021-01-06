@@ -1,0 +1,68 @@
+.logo{
+    height:9rem;
+    padding-left:3rem;
+    padding-top:1rem;
+}
+.clip{
+    height:150px;
+    background:green;
+    width:300px;
+    border-radius:0 0 170px 170px;
+    margin-left:72rem;
+}
+section{
+    background:rgb(246,247,251);
+    height:75rem;
+}
+h6{
+    padding-left:44rem;
+    padding-top:4rem;
+    font-size:15px;
+    color:rgb(129,140,152);
+}
+h3{
+    text-align:center;
+    padding-left:2rem;
+    font-size:24px;
+    font-family:sans-serif;
+    line-height:28.8px;
+    font-weight:500;
+}
+.height{
+    display:flex;
+    flex-direction:column;
+}
+button{
+    width:65rem;
+    height:5rem;
+    margin-left:14rem;
+    color:rgb(92,106,119);
+    background:white;
+    font-size:20px;
+    border-radius:30px;
+    border:none;
+    cursor:pointer;
+    outline:none;
+}
+button:hover{
+    color:rgb(1,151,64);
+    border:4px solid rgb(179,223,197);
+}
+#last{
+    width:65rem;
+    border-radius:40px;
+    font-size:20px;
+    background:rgb(1,151,64);
+    font-weight:bold;
+    border:4px solid rgb(179,223,197);
+}
+#last:hover{
+    background:white;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:green;
+}

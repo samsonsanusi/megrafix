@@ -1,0 +1,171 @@
+header{
+    background:rgb(6,154,66);
+    background:linear-gradient(to right,rgb(6,154,66),rgb(125,213,105));
+    height:60rem;
+    width:90rem;
+}
+.keys{
+    float:right;
+    margin-right:4rem;
+    margin-bottom:5rem;
+    width:2.5rem;
+}
+fieldset{
+    height:40rem;
+    width:45rem;
+    background:white;
+    margin-left:20rem;
+    border-radius:20px;
+    border:none;
+    padding-top:5rem;
+    padding-left:3rem;
+}
+#legend{
+    font-family:sans-serif;
+    font-size:2.5rem;
+}
+.calls{
+    font-family:sans-serif;
+    padding-left:1.3rem;
+    font-size:1.3rem;
+    color:rgb(217,160,27);
+    padding-bottom:10rem;
+}
+.below{
+    display:flex;
+    justify-content:space-around;
+}
+
+h4{
+    font-family:sans-serif;
+    font-size:1.6rem;
+    padding-left:3rem;
+    color:rgb(42,52,64);
+    font-weight:bold;
+}
+.highest{
+    font-family:sans-serif;
+    font-weight:bold;
+    color:rgb(1,151,64);
+    padding-left:3rem;
+    font-size:1.8rem;
+}
+h5{
+    font-family:sans-serif;
+    font-weight:200;
+    color:(72,77,96);
+    font-size:1rem;
+    padding-left:3rem;
+}
+p{
+    padding-left:3rem;
+    font-weight:200;
+    font-size:1.5rem;
+    font-family:sans-serif;
+}
+a{
+    font-family:sans-serif;
+    font-weight:200;
+    color:(66,110,217);
+    text-decoration:none;
+    padding-left:3rem;
+}
+
+a:hover{
+    color:tomato;
+}
+hr{
+    width:80rem;
+    padding-left:5rem;
+}
+.arrow{
+    height:1.7rem;
+    padding-top:1.9rem;
+}
+.diva{
+    display:flex;
+}
+h3{
+    padding-left:1rem;
+    font-size:1.7rem;
+    font-family:sans-serif;
+    color:green;
+    
+}
+.dot{
+    display:flex;
+}
+h1{
+    font-family:sans-serif;
+    font-size:2.5rem;
+    padding-left:2.5rem;
+    font-weight:bold;
+}
+.oval{
+    height:1.5rem;
+    padding-top:2.8rem;
+    padding-left:0.7rem;
+}
+.good{
+    font-family:sans-serif;
+    font-size:1rem;
+    padding-top:0.8rem;
+    font-weight:300;
+    padding-left:1rem;
+}
+.review{
+    font-size:1rem;
+    position:absolute;
+    padding-left:7rem;
+    margin-top:5.3rem;
+    font-weight:200;
+    font-family:sans-serif;
+}
+button{
+    width:70rem;
+    height:4rem;
+    font-size:1.3rem;
+    background:white;
+    border:2px solid rgb(1,151,64);
+    font-weight:200;
+    margin-left:10rem;
+}
+button:hover{
+background:green;
+color:white;
+border:none;
+}
+.delta{
+    display:flex;
+}
+.gallery{
+    padding-left:8rem
+}
+blockquote{
+    font-size:2rem;
+    padding-left:14rem;
+    font-family:sans-serif;
+    font-weight:300;
+}
+.classic{
+    display:flex;
+    flex-direction:row;  
+}
+h2{
+   padding-left:35rem; 
+   font-size:1.8rem;
+   font-family:sans-serif;
+   font-weight:300;
+}
+.depth{
+    height:1.5rem;
+    padding-top:1.7rem;
+    padding-left:0.7rem;
+}
+.hector{
+    font-family:sans-serif;
+    font-size:1rem;
+    padding-left:0.5rem;
+    font-weight:200;
+    
+}
